@@ -1,0 +1,12 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio15\obj\Debug\netcoreapp3.1\Ejercicio15.genruntimeconfig.cache
