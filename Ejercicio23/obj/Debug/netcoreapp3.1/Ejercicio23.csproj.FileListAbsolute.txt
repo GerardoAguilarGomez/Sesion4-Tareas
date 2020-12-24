@@ -1,0 +1,12 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\bin\Debug\netcoreapp3.1\Ejercicio23.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio23\obj\Debug\netcoreapp3.1\Ejercicio23.genruntimeconfig.cache
