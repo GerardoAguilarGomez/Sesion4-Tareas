@@ -1,0 +1,12 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion4-Tareas\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
